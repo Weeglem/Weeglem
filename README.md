@@ -8,5 +8,6 @@
   <li>PHP</li>
   <li>MySQL</li>
   <li>Java</li>
+  <li>Javascript</li>
   <li>.Net</li>
 </ul>
