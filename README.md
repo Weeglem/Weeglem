@@ -5,9 +5,9 @@
 
 <h3>🌱 Learned Languajes (2024)</h3>
   <ul>
-  <li>PHP</li>
-  <li>MySQL</li>
+  <li>PHP w/ Laravel</li>
+  <li>JavaScript</li>
+  <li>SQL</li>
   <li>Java</li>
-  <li>Javascript</li>
-  <li>.Net</li>
+  
 </ul>
